@@ -69,3 +69,131 @@ sudo mysql -u admin -p -h database-1.cuiredjfzak5.ap-south-1.rds.amazonaws.com
 sudo nano submit.php
 sudo mysql -u admin -p -h database-1.cuiredjfzak5.ap-south-1.rds.amazonaws.com
 sudo yum update
+git --config
+ls
+nano git.html
+git config --list
+git add .
+git commit -m "hi"
+git push origin master
+git difftool -m --staged
+ls
+git status
+git log
+git push origin master
+git tag v1.0
+ls
+git log
+cd myproject
+git tag
+clear
+ktmduke.html
+sudo nano ktmduke.html
+git add .
+git commit -m "newcommit"
+git tag v2.0
+git tag
+git push origin v2.0 
+git push origin v1.0 
+git show v2.0
+git log
+git tag -a v3.0 59ff1a5
+git tag
+git tag -a v4.0 -m "annonated tag"
+git log
+git tag
+git remote origin
+git remote rename origin home
+git push --set-upstream homemaster
+git push --set-upstream home master
+git add .
+git commit -m "newwalahome"
+git push
+git pull https://github.com/sohelshaikh03/newproject.git
+git fetch https://github.com/sohelshaikh03/newproject.git
+git fetch_head  https://github.com/sohelshaikh03/newproject.git
+git fetch_HEAD https://github.com/sohelshaikh03/newproject.git
+git push -f home master
+sudo msql -u root -p
+sudo mysql -u root -p
+yes
+q
+ls
+sudo mysql -u root -p
+ls
+sudo nano upload.php
+cd var/www/html
+cd /var/www/html
+ls
+cd /usr/share/nginx/html
+ls
+sudo nano upload.php
+sudo nano fileadd.html
+mkdir uploads
+sudo chmod -r 777
+sudo chmod -r 777 uploads
+ls
+cd
+ls
+mkdir uploads
+ls
+sudo chmod -r 777 uploads
+sudo chmod -R 777 uploads
+ls
+sudo nano submit.php
+sudo service nginx status
+ls
+cd /usr/share/nginx/html
+ls
+sudo nano submit.php
+submit.php
+sudo nano submit.php
+cd uploads
+cd
+cd uploads
+ls
+cd
+cd /usr/share/nginx/html
+sudo nano fileadd.html
+sudo nano upload.php
+sudo rm upload.php
+sudo nano upload.php
+ls
+cd /usr/share/nginx/html
+ls
+sudo nano upload.php
+sudo nano index.php
+sudo nano index.html
+sudo nano submit.php
+cd
+sudo nano submit.php
+sudo mysql -u root -p
+sudo nano 50x.html
+cd /usr/share/nginx/html
+ups3.php
+sudo nano ups3.php
+sudo nano upload.php
+sudo nano ups3.php
+sudo nano upload.php
+sudo nano fileadd.html
+sudo nano upload.php
+sudo nano fileadd.html
+sudo nano upload.php
+sudo rm upload.php
+sudo nano upload.php
+sudo nano fileadd.html
+sudo service php-fpm status
+sudo nano fileadd.html
+sudo nano upload.html
+cd /etc/nginx
+ls
+cd conf.d
+ls
+sudo nano php-fpm.conf
+cd ..
+cd default.d
+ls
+sudo nano php.conf
+
+sudo nano nginx.conf
+sudo nano fastcgi.conf
